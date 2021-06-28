@@ -3,9 +3,9 @@
 
 <h2 align= "center">Full Stack Developer</h2>
 
-<h3 align= "center"> Tecnologies </h3>
+<h3> Tecnologies </h3>
 
-<ul align= "center">
+<ul>
   <li>JavaScript</li>
   <li>HTML</li>
   <li>CSS</li>
@@ -16,9 +16,9 @@
 </ul>
 
 
-<h4 align= "center"> Design Tecnologies </h4>
+<h4> Design Tecnologies </h4>
 
-<ul align= "center">
+<ul>
   <li>Material-UI</li>
   <li>Figma</li>
 </ul>
