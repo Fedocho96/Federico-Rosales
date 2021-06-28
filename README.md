@@ -32,5 +32,5 @@ My Proyects
 
 
 Contact Me
-email: fedocho.96@gmail.com
-<span>https://www.linkedin.com/in/federico-rosales96/</span>
+<p>email: fedocho.96@gmail.com</p>
+<span> LinkedIn: https://www.linkedin.com/in/federico-rosales96/</span>
