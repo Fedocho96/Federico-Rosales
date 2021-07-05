@@ -1,7 +1,5 @@
-Hi, I'm Federico Rosales
 
-
-<h2 align= "center">Full Stack Developer</h2>
+![GitHubBanner](https://user-images.githubusercontent.com/73982324/124511688-19640c80-ddad-11eb-85b6-ea5481bdf571.gif)
 
 <h3> Tecnologies </h3>
 
