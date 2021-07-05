@@ -10,7 +10,7 @@
   <li>ReactJS</li>
   <li>NodeJs</li>
   <li>Redux</li>
-  <li>PostreSql</li>
+  <li>PostgreSql</li>
 </ul>
 
 
