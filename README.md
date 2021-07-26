@@ -22,13 +22,14 @@
 
 ------------------------------------------
 
-My Proyects
-PokeApi(Video Coming Soon)
-.PokeApi is my first project in Henry. This project simulates a Pokedex, where de user can search specific Pokemons using diferent types of tools like sortings, searchbar, filters by pkemon types, etc..
+<h3>My Proyects </h3>
+<h4>PokeApi(Video Coming Soon)</h4>
+<a>.PokeApi is my first project in Henry. This project simulates a Pokedex, where de user can search specific Pokemons using diferent types of tools like sortings, searchbar, filters by pkemon types, etc..
  Tecnologies used in this project: JavaScript, React, Redux, HTML, CSS, PostgreSql
+</a>
 
-Onion(Video Coming Soon)
-.Onion is my final project in Henry.This one is an E-Commerce and soon will be more info about this project 
+<h3>Onion(Video Coming Soon)</h3>
+<a>.Onion is my final project in Henry.This one is an E-Commerce and soon will be more info about this project </a>
 
 ------------------------------------------
 Contact Me
